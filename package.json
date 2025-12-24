@@ -1,0 +1,17 @@
+{
+  "name": "salary-calculator-worker",
+  "version": "1.0.0",
+  "description": "KPI-Based Salary Calculator - Erablue",
+  "main": "worker.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail"
+  },
+  "keywords": ["cloudflare-workers", "salary-calculator", "erablue"],
+  "author": "Erablue Backend Team",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

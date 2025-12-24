@@ -1,0 +1,12 @@
+name = "salary-calculator"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+# Optional: Custom domain
+# routes = [
+#   { pattern = "salary.erablue.com/*", zone_name = "erablue.com" }
+# ]
+
+# Optional: Environment variables
+# [vars]
+# ENVIRONMENT = "production"
